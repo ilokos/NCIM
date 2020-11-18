@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T00:33:13.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69" etag="5kM-g8OL0mgMHmaOc_NF" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T00:33:48.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69" etag="8vC5QaLKP3z5ppnzfc1O" version="13.9.9" type="github">
   <diagram id="nKOJrB1VfP32wkWAsUuA" name="Page-1">
     <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eEAKTDP4_7GDPInE2_qc-1" value="Customer is found, but no ID verification details are available." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="170" width="160" height="50" as="geometry" />
+          <mxGeometry x="530" y="160" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eEAKTDP4_7GDPInE2_qc-2" value="Return Document Reference Number" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.99;entryY=0.449;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LGv2I6CfhC-DXlK5i3q5-14">
           <mxGeometry relative="1" as="geometry">
